@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="app">
+    <CLASSES>
+      <root url="file:///Applications/Processing.app/Contents/app" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///Applications/Processing.app/Contents/app" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file:///Applications/Processing.app/Contents/app/resources/tools/MovieMaker/src" />
+      <root url="file:///Applications/Processing.app/Contents/app" />
+    </SOURCES>
+    <jarDirectory url="file:///Applications/Processing.app/Contents/app" recursive="false" />
+    <jarDirectory url="file:///Applications/Processing.app/Contents/app" recursive="false" type="SOURCES" />
+  </library>
+</component>
